@@ -1,0 +1,54 @@
+body {
+  font-family: "Roboto", sans-serif;
+  
+}
+
+.navbar-brand img{
+  height: 50px; 
+  color: white;
+}
+nav{
+ 
+  background-color: #28a745;
+}
+
+.navbar-toggler-icon{
+  color: white;
+}
+.card-precio-normal {
+  color:#707070; 
+}
+
+.card-precio-oferta {
+  color: #28a745;
+  font-weight: bold;
+  font-size: 25px;
+ 
+}
+.formulario {
+  background-color: #28a745;
+  padding: 20px;
+  text-align: center;
+}
+.formulario .form-control {
+  margin-bottom: 15px;
+}
+.footer {
+  text-align: center;
+  padding: 10px;
+
+}
+
+footer{
+text-align: center;
+}
+
+footer img{
+width: 82px;
+padding-top: 30px;
+}
+
+footer p{
+color:#707070;
+font-weight:100;
+}
